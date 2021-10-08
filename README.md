@@ -1,2 +1,3 @@
 # 2021 cuy
-# Sibuk IGI Compfest
+# Selesai IGI Compfest.
+# Mantap lah
